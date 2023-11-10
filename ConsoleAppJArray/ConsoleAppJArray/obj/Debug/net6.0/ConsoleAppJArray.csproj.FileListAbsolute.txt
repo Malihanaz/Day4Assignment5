@@ -1,0 +1,14 @@
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\bin\Debug\net6.0\ConsoleAppJArray.exe
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\bin\Debug\net6.0\ConsoleAppJArray.deps.json
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\bin\Debug\net6.0\ConsoleAppJArray.runtimeconfig.json
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\bin\Debug\net6.0\ConsoleAppJArray.dll
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\bin\Debug\net6.0\ConsoleAppJArray.pdb
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\obj\Debug\net6.0\ConsoleAppJArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\obj\Debug\net6.0\ConsoleAppJArray.AssemblyInfoInputs.cache
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\obj\Debug\net6.0\ConsoleAppJArray.AssemblyInfo.cs
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\obj\Debug\net6.0\ConsoleAppJArray.csproj.CoreCompileInputs.cache
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\obj\Debug\net6.0\ConsoleAppJArray.dll
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\obj\Debug\net6.0\refint\ConsoleAppJArray.dll
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\obj\Debug\net6.0\ConsoleAppJArray.pdb
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\obj\Debug\net6.0\ConsoleAppJArray.genruntimeconfig.cache
+C:\simplilearn\Day5\ConsoleAppJArray\ConsoleAppJArray\obj\Debug\net6.0\ref\ConsoleAppJArray.dll
